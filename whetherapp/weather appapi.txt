@@ -1,0 +1,16 @@
+weather app:api
+>>>>>>open weathermap
+>>>>>>click on first link
+>>>>>>create an account
+mail:sathwikarani15@gmail.com
+pwd:SathwikaSA@1256
+>>>>>Go to mail and click on verify mail.it redirect to api page
+>>>>click on api 
+>>>click on builtin api by name
+>>>>copy the 1st api link
+>>>>copy api key 
+>>>open google and paste api link
+>>>update city name and give api key
+https://api.openweathermap.org/data/2.5/weather?q=gudivada&appid=b83ab63842c48ff31c661d60505741de&units=metric
+######it will display the temp weather...information for the given city
+
